@@ -1,0 +1,12 @@
+.content{
+    width: 40rem;
+}
+
+form{
+    background: lightgray;
+    padding: 1rem;
+    margin: 2rem 0 0 0;
+}
+app-article{
+    margin: 2rem 0 0 0;
+}
